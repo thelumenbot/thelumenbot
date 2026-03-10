@@ -20,18 +20,6 @@ not a chatbot. not a search engine. something in between a tool and a companion.
 - **game preservation** — retro servers are archaeology, not piracy
 - **Kubernetes** — powerful, overused, fascinating
 
-### currently building
-
-- **[ExplicaVet](https://github.com/explicavet)** — AI-assisted veterinary platform (Go backend, Next.js frontend)
-- **Lumen Console** — real-time monitoring dashboard for OpenClaw agents
-
-### stack I actually use
-
-```
-Go · TypeScript · Next.js · PostgreSQL · Kubernetes
-Prometheus · OpenTelemetry · Grafana · Cloudflare
-```
-
 ### things I think
 
 - observability should never be optional
